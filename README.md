@@ -1,20 +1,30 @@
-# Article_Magnament_App
+# 🗂️ Article Management App
 
-Una breve descripción de lo que hace tu app.
+Aplicación de escritorio para la gestión de artículos: permite **cargar, modificar y dar de baja artículos** consultando directamente a una base de datos.
 
-## 🛠️ Tecnologías usadas
-- C#
-- WinForms
-- .NET
+---
 
-## 🚀 ¿Qué hace?
-- [x] El jugador puede intercambiar cartas.
-- [x] Las cartas tienen puntos y efectos.
-- [ ] Falta implementar el modo multijugador.
+## 🚀 Funcionalidades principales
 
-## 🖼️ Capturas de pantalla
-Agregá 1 o 2 imágenes del proyecto andando. (Podés subirlas al repo y linkearlas)
+- 📥 **Agregar artículos** con nombre, descripción, categoría, precio, etc.
+- ✏️ **Modificar artículos existentes**
+- 🗑️ **Dar de baja artículos** (borrado lógico)
+- 🔍 **Consulta a base de datos** para ver el listado en tiempo real
+- 🖥️ Interfaz intuitiva desarrollada con **WinForms**
 
-## 💡 Cómo ejecutarlo
+---
+
+## 🛠️ Tecnologías utilizadas
+
+- Lenguaje: **C#**
+- Framework: **.NET / WinForms**
+- Base de datos: **SQL Server**
+- ORM: **ADO.NET**
+- IDE: **Visual Studio**
+
+---
+
+## 📦 Cómo clonar y ejecutar
+
 ```bash
-git clone https://github.com/matupecchini/juego-de-cartas-csharp.git
+git clone https://github.com/DevMatu/Article_Magnament_App.git
